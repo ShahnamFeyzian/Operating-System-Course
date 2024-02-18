@@ -1,0 +1,16 @@
+How to use this program :
+
+command 1 : help 
+            this command shows this text
+----------------------------------------------------------------------------------------------------------
+command 2 : test
+            this command tests the communications between company & buildings & finantial & meter units
+----------------------------------------------------------------------------------------------------------
+command 3 : close
+            this command close all processes
+----------------------------------------------------------------------------------------------------------
+command 4 : report <report_type> <building_name> <resource_name> <month_number>
+            this is the main command
+----------------------------------------------------------------------------------------------------------
+report types: mean, total, max, difference, bill
+----------------------------------------------------------------------------------------------------------
